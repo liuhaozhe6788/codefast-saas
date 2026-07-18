@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <h1>Collect customer feedback to improve your product experience.</h1>
       <div>
-        Create a feedback board in minutes, build products your customers love.
+        Create a feedback board in minutes, and build products your customers love.
       </div>
     </main>
   );
